@@ -121,7 +121,7 @@ export const EXPERIENCES = [
 
 export const SOCIAL_MEDIA_LINKS = [
   {
-    href: "https://x.com/",
+    href: "https://www.facebook.com/nastymaan/",
     icon: <FaFacebook fontSize={26} className="hover:opacity-80" />,
   },
   {
@@ -129,25 +129,25 @@ export const SOCIAL_MEDIA_LINKS = [
     icon: <FaDiscord fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://x.com/",
+    href: "https://www.instagram.com/maanwindarrr/",
     icon: <FaInstagram fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://x.com/",
+    href: "https://x.com/0xmannyyyy",
     icon: <FaXTwitter fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://github.com/",
+    href: "https://github.com/manvendra2000",
     icon: <FaGithub fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/manvendrar",
     icon: <FaLinkedin fontSize={26} className="hover:opacity-80" />,
   },
 ];
 
 export const CONTACT = {
   text: "I am always excited to collaborate on new and challenging projects. Whether you have a specific project in mind or just want to explore potential opportunities, Id love to hear from you. Lets combine our skills and expertise to create something amazing. Feel free to reach out to discuss how we can work together to achieve your goals.",
-  email: "hi@benson.langford.me",
-  phone: "+(221 - 7654567892)",
+  email: "ms28.dev@gmail.com",
+  phone: "+(91 - 9024762254)",
 };
